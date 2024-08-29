@@ -1,0 +1,10 @@
+.bgLeft {
+  background: url("../assets/lms_login3.jfif");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.inp {
+  width: 76%;
+}
